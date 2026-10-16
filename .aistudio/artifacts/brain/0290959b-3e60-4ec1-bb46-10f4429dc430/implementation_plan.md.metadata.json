@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for UrbanTwin (ProphetProp engine) featuring Street View photo-to-3D block reconstruction, animated 3D low-poly pedestrians walking and queuing, deterministic ProphetProp simulator for 1-day/30-day/365-day horizons, live Google Maps and Seoul presets (Seongsu & Mangwon), and real-time Gemini-powered what-if scenario testing.",
+  "updatedAt": "2026-10-16T01:49:55.555915138Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
